@@ -3,6 +3,6 @@ This project is a immensly juvenile attempt to mode the behaviour of Taylor Seri
 
 Apparently , following modules can be used for achieveing the desired operation 
   - Derivatives and other mathematical operations : Sympy and math 
-  - Plotting - Seaborn and matplotlib
+  - Plotting : Seaborn and matplotlib
   
   
