@@ -1,3 +1,4 @@
+# This script takes a function as a string and converts it to mathematical forms using Sympy, at a particular value of 'y' , the difference between the values of  derivative at y of the function f(x) calculated by analytical(using diff function of Sympy and using step-approximation of first principle )is calculated and plotted for different sizes of the step varying from 1 to 0.05 with a decrement of 0.005 in each loop . 
 import sympy
 from sympy import *
 import numpy as np
