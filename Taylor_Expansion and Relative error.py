@@ -8,7 +8,7 @@ exp1 = (sympify(s))
 expf = Function('expf')
 expf=0
 exp2=exp1
-#print(exp2)
+print(exp2)
 
 for n in np.arange(1,l,1):
     k=n        
