@@ -5,4 +5,6 @@ Apparently , following modules can be used for achieveing the desired operation
   - Derivatives and other mathematical operations : Sympy and math 
   - Plotting : Plotly , Seaborn and matplotlib
   
+  After plotting a best-fit algo can be used to find a correlation between number of steps and relative error .
+  
   
