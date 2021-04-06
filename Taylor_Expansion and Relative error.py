@@ -31,4 +31,5 @@ for y in np.arange(-10,10,0.1):
     yval.append(y)
     errval.append(err)
     
-plt.plot(yval,errval)
+p2 = plt.plot(yval,errval)
+p2.show()
